@@ -51,7 +51,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 DIRECT_TEMPLATES = ['index']
-DELETE_OUTPUT_DIRECTORY = True
+
 # Top Menu Links
 NAVLINKS = (
 	('#page-top', 'Home'),
