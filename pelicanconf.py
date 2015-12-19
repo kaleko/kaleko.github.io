@@ -12,6 +12,7 @@ THEME = 'mytheme'
 THEME_STATIC_DIR = 'mytheme/static'
 PATH = 'content'
 #STATIC_PATHS = [ 'mail','js', 'css', 'fonts']
+STATIC_PATHS = [ 'images', 'CNAME' ]
 #add images back in above
 # EXTRA_PATH_METADATA = {
 #     'static/images/portfolio': {'path': 'images/portfolio'},
