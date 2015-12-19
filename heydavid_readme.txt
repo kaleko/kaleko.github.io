@@ -1,6 +1,12 @@
-compile the site with: make html
-always work on master branch
-the only things on gh-pages branch are what's in the output/ folder
-to publish, do:
-ghp-import output
-git push origin gh-pages
+For the kaleko.github.io repository, use the MASTER branch instead of the gh-pages
+When a repository is named specifically "username.github.io" the master branch
+is the one that should have index.html, etc.
+The "sources" for the site are stored on the sources branch.
+Develop on the sources branch.
+
+Compile the site with: 
+>> make html
+
+To publish, do:
+>> ghp-import -b master output
+>> git push origin master
