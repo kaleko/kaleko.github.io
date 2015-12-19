@@ -73,7 +73,6 @@ CONTACT_FIELDS = (
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
-
-MARKUP = ('md', 'ipynb')
-PLUGIN_PATHS = ['./plugins']
-PLUGINS = ['ipynb']
+#MARKUP = ('md', 'ipynb')
+#PLUGIN_PATHS = ['./plugins']
+#PLUGINS = ['ipynb']
