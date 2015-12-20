@@ -53,6 +53,8 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 DIRECT_TEMPLATES = ['index']
 
+GOOGLE_ANALYTICS = 'UA-71585052-2'
+
 # Top Menu Links
 NAVLINKS = (
 	('#page-top', 'Home'),
