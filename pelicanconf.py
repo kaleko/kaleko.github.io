@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'David Kaleko'
 SITENAME = 'David Kaleko'
 SITETITLE = 'David Kaleko'
-SITESUBTITLE = "Ph.D. Candidate and Aspiring Data Scientist"
+SITESUBTITLE = "Ph.D. Candidate and Data Scientist"
 
 
 THEME = 'mytheme'
